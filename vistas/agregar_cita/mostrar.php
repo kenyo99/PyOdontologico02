@@ -2,7 +2,7 @@
 
     <a href="#" class="btn btn-success nuevo">
         <i class="fa fa-plus-circle"></i> 
-        Registrar nueva Cita
+        Registrar nueva Citaaaaa
     </a>
     <h1>.</h1>
     <table class="table table-striped table-hover">
